@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "revoxltd",
+    "githubRepoName": "pg-ios-toggle",
+    "npmModuleName": "ngx-ios-toggle",
+    "ngModuleName": "IosToggleModule",
+    "selectorPrefix": "pg",
+    "projectTitle": "Pages iOS Toggle",
+    "projectDescription": "iOS inspired toggle for Angular 5 / 6",
+    "authorName": "Malith",
+    "packageManager": "npm"
+  }
+}
